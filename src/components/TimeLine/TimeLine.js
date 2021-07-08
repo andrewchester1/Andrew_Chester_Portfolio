@@ -46,7 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am currently a student at Concordia University Wisconsin, studying Computer Science. While studying at school, I also have an internship with TESCHGlobal as a Development Intern.
+        Since beginning my journey as a Computer Science Major nearly 3 years ago, I have pursued a carrer in the Web Development field. Currently I am a Developer Intern at TESCHGlobal,
+        and also a full time student at CUW. Through School and Work, I am hoping to improve my skills as a Web Developer, and land a full time job when I graduate.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
