@@ -19,8 +19,8 @@ export const projects = [
   },
   {
     title: 'Unichat',
-    description: "A full-fledged Firebase Chat Application. Through Google and Facebook users are able to create accounts and use Google and Facebooks Authentication to login in.",
-      image: '/images/Unichat.png',
+    description: "Full-fledged Firebase Chat Application. Through Google and Facebook users are able to create accounts and use Google and Facebooks Authentication to login in.",
+      image: '/images/4.jpg',
       tags: ['Routing', 'Social Auth', 'Firebase', 'React Context', 'Rest APIs'],
     source: 'https://github.com/andrewchester1/unichat',
     visit: 'https://unichat-andrew-chester.netlify.app/chats',
