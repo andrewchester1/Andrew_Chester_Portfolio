@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Unichat',
+    description: "A full-fledged Firebase Chat Application. Through Google and Facebook users are able to create accounts and use Google and Facebooks Authentication to login in.",
+      image: '/images/Unichat.png',
+      tags: ['Routing', 'Social Auth', 'Firebase', 'React Context', 'Rest APIs'],
+    source: 'https://github.com/andrewchester1/unichat',
+    visit: 'https://unichat-andrew-chester.netlify.app/chats',
     id: 2,
   },
   // {
