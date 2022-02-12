@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with a range of technologies in the web development world. 
+      I have worked with a range of technologies in the web and mobile development world. 
       From Back-end to Design
     </SectionText>
     <List>
@@ -20,10 +20,12 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             React.js <br />
-            Npm <br />
-            Bootstrap <br />
+            React Native <br />
+            Sinatra <br />
             Redux <br />
-            Ruby
+            Npm <br />
+            Ruby <br /> 
+            JavaScript <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,8 +35,12 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
+            Node js <br />
             MongoDB <br />
             MySQL <br />
+            Firebase <br />
+            Postman <br />
+            Knex <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +50,13 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            JQuery
+            JQuery <br />
+            Bootstrap <br />
+            NativeBase <br />
+            React Native Elements <br />
+            HTML <br />
+            CSS <br />
+            JWT Authentication <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>

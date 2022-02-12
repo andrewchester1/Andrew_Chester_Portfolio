@@ -11,7 +11,6 @@ const Projects = () => (
     <GridContainer>
         <BlogCard>
             <Img src={ResumeImg1} />
-            <Img src={ResumeImg2} />
             <TitleContent>
                 <HeaderThree title>Andrew Chester's Resume</HeaderThree>
                 <Hr />
