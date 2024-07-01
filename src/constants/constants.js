@@ -1,29 +1,26 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB to build a Full Stack MERN Application. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    visit: 'https://github.com/andrewchester1/project_mern_memories',
+    title: 'Barbershop App',
+    description: "React Native, Express & MySQL Full Stack Application. Customers can book appointments, view services, and contact the barbershop. The app also allows the barbershop to edit appointments, send announcements, block accounts, process payments, and more!",
+      image: '/images/trimly.png',
+      tags: ['React Native', 'Express', 'Tamagui', 'TanStack'],
     id: 0,
   },
   {
-    title: 'Unichat',
-    description: "Full-fledged Firebase Chat Application. Through Google and Facebook users are able to create accounts and use Google and Facebooks Authentication to login in.",
-      image: '/images/4.jpg',
-      tags: ['Routing', 'Social Auth', 'Firebase', 'React Context', 'Rest APIs'],
-    source: 'https://unichat-andrew-chester.netlify.app/chats',
-    visit: 'https://github.com/andrewchester1/unichat',
+    title: 'RangeOps Pro',
+    description: "Full-fledged driving range technology solution. Custom Mobile App, Website, and POS system. This software allows customers to book simulator/lessons, earn rewards, and sign up for membership. This is a full enterprise solution for driving ranges!",
+      image: '/images/ComingSoon.png',
+      tags: ['React Native', 'Next.js', 'Express', 'PostHog'],
     id: 1,
   },
-  {
-    title: 'Racing Application',
-    description:"This racing game was built using C# through Visual Studio .NET. Similar to the popular game 'Doodle Jump', this application was build at the 2021 CUW Hack-A-Thon.",
-    image: '/images/2.png',
-    tags: ['C#', 'Visual Studio .NET'],
-    visit: 'https://github.com/andrewchester1/hackathon_race_car_application',
-    id: 2,
-  },
+  // {
+  //   title: 'Racing Application',
+  //   description:"This racing game was built using C# through Visual Studio .NET. Similar to the popular game 'Doodle Jump', this application was build at the 2021 CUW Hack-A-Thon.",
+  //   image: '/images/2.png',
+  //   tags: ['C#', 'Visual Studio .NET'],
+  //   visit: 'https://github.com/andrewchester1/hackathon_race_car_application',
+  //   id: 2,
+  // },
   // {
   //   title: '',
   //   description: "",
@@ -38,14 +35,16 @@ export const ResumeImg1 = 'images/Andrew_Chester_Resume.png';
 
 export const TimeLineData = [
   { year: 2018, text: 'Student Athlete at Concordia University Wisconsin', },
-  { year: 2019, text: 'Changed Major to Computer Science', },
-  { year: 2020, text: 'Took interest in Web and Mobile Development', },
-  { year: 2021, text: 'Started a Developer Internship at TESCHGlobal', },
-  { year: 2022, text: 'Developed various Web and Mobile Applications through Internship, and personal projects', }
+  { year: 2019, text: 'Started Computer Science Major', },
+  { year: 2021, text: 'Developer Intern - TESCHGlobal', },
+  { year: 2022, text: 'Released Barbershop Mobile App', },
+  { year: 2023, text: 'Developer - Acuity Insurance', },
+  { year: 2023, text: 'Developer II - Skygen USA Mobile App Team', }
 ];
 
-export const AcomplishmentData = [
-  { number: 20, text: 'Projects'},
-  { number: 4, text: 'Years of Computer Science classes completed', },
-  { number: 1, text: 'Years of work experience', }
+export const AccomplishmentsData = [
+  { number: 30, text: 'Web and Mobile Projects'},
+  { number: 5000, text: 'Hours of Mobile App Development', },
+  { number: 3, text: 'Years of work experience', },
+  { number: 1, text: 'Released Mobile App side projects', }
 ];

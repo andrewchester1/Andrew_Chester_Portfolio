@@ -12,7 +12,7 @@ const Hero = () => (
         Welcome to my Portfolio
       </SectionTitle>
       <SectionText>
-        Web Developer with Computer Science degree from Concordia University Wisconsin. Creating a career in Web and Mobile Development
+        React Native and React Developer with a Computer Science degree from Concordia University Wisconsin. Creating a career in Mobile Development
       </SectionText>
       <Button onClick={() => window.location = '#projects'}>Learn More</Button>
     </LeftSection>

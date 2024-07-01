@@ -46,8 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Since beginning my journey as a Computer Science Major nearly 4 years ago, I have pursued a carrer in the Web and Mobile Development. Currently I am a Developer Intern at TESCHGlobal,
-        and also a full time student at CUW. Through School and Work, I am hoping to improve my skills as a Developer, and land a full time job when I graduate.
+        I am a mobile app developer, that loves providing solutions for businesses of all sizes. During my Senior year of College, I developed a Mobile Application for my barber. This application allowed my barber's customers to book appointments, get announcements, and earn rewards. I maintained and enhanced this mobile application for over 3 years with over 250 Monthly Active Users. Currently I am a Mobile Application Developer II at Skygen USA, developing mobile applications for Insurance Companies and Savings Clubs.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

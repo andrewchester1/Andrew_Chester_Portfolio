@@ -9,8 +9,8 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with a range of technologies in the web and mobile development world. 
-      From Back-end to Design
+      I have worked with a range of technologies in the mobile and web development world. 
+      From Front-end to Back-end Development.
     </SectionText>
     <List>
     <ListItem>
@@ -18,14 +18,14 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js <br />
             React Native <br />
-            Sinatra <br />
-            Redux <br />
-            Npm <br />
-            Ruby <br /> 
-            JavaScript <br />
+            Expo <br />
+            React.js <br />
+            Next.js <br />
+            Expo <br />
+            TanStack <br />
+            PostHog <br />
+            TypeScript <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -34,13 +34,14 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Express <br />
             Node js <br />
-            MongoDB <br />
+            SQL <br />
             MySQL <br />
-            Firebase <br />
-            Postman <br />
-            Knex <br />
+            Kysely <br />
+            BullMQ <br />
+            Stripe <br />
+            Twilio/SendGrid <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -49,14 +50,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            JQuery <br />
+            Tamagui <br />
             Bootstrap <br />
             NativeBase <br />
             React Native Elements <br />
             HTML <br />
             CSS <br />
-            JWT Authentication <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
