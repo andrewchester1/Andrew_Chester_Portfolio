@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Barbershop App',
     description: "React Native, Express & MySQL Full Stack Application. Customers can book appointments, view services, and contact the barbershop. The app also allows the barbershop to edit appointments, send announcements, block accounts, process payments, and more!",
-      image: '/images/trimly.png',
+      image: '/images/Trimly.png',
       tags: ['React Native', 'Express', 'Tamagui', 'TanStack'],
     id: 0,
   },
